@@ -42,7 +42,10 @@ region, segment, or category and get consistent answers across every view.
 
 *(add a screenshot or screen recording GIF of the dashboard here)*
 
-`assets/preview.png`
+`assets/dashboard1.jpeg`
+`assets/dashboard2.jpeg`
+`assets/dashboard3.jpeg`
+
 
 </div>
 

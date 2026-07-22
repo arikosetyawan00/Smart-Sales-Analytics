@@ -1,0 +1,81 @@
+{
+    "Year": [
+        2014,
+        2015,
+        2016,
+        2017
+    ],
+    "Region": [
+        "Central",
+        "East",
+        "South",
+        "West"
+    ],
+    "Segment": [
+        "Consumer",
+        "Corporate",
+        "Home Office"
+    ],
+    "Category": [
+        "Furniture",
+        "Office Supplies",
+        "Technology"
+    ],
+    "Ship Mode": [
+        "First Class",
+        "Same Day",
+        "Second Class",
+        "Standard Class"
+    ],
+    "State": [
+        "Alabama",
+        "Arizona",
+        "Arkansas",
+        "California",
+        "Colorado",
+        "Connecticut",
+        "Delaware",
+        "District of Columbia",
+        "Florida",
+        "Georgia",
+        "Idaho",
+        "Illinois",
+        "Indiana",
+        "Iowa",
+        "Kansas",
+        "Kentucky",
+        "Louisiana",
+        "Maine",
+        "Maryland",
+        "Massachusetts",
+        "Michigan",
+        "Minnesota",
+        "Mississippi",
+        "Missouri",
+        "Montana",
+        "Nebraska",
+        "Nevada",
+        "New Hampshire",
+        "New Jersey",
+        "New Mexico",
+        "New York",
+        "North Carolina",
+        "North Dakota",
+        "Ohio",
+        "Oklahoma",
+        "Oregon",
+        "Pennsylvania",
+        "Rhode Island",
+        "South Carolina",
+        "South Dakota",
+        "Tennessee",
+        "Texas",
+        "Utah",
+        "Vermont",
+        "Virginia",
+        "Washington",
+        "West Virginia",
+        "Wisconsin",
+        "Wyoming"
+    ]
+}

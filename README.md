@@ -127,7 +127,7 @@ The app will open at `http://localhost:8501`.
 ### Deployed version
 
 The dashboard is deployed on **Streamlit Community Cloud**:
-👉 **[your-app-name.streamlit.app](https://your-app-name.streamlit.app)**
+👉 **(https://smart-sales-analytics-v1.streamlit.app/)**
 
 ---
 

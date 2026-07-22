@@ -39,13 +39,9 @@ region, segment, or category and get consistent answers across every view.
 ## 🖼️ Preview
 
 <div align="center">
-
-*(add a screenshot or screen recording GIF of the dashboard here)*
-
-`assets/dashboard1.jpeg`
-`assets/dashboard2.jpeg`
-`assets/dashboard3.jpeg`
-
+<img src="assets/dashboard1.jpeg" width="900"/>
+<img src="assets/dashboard2.jpeg" width="900"/>
+<img src="assets/dashboard3.jpeg" width="900"/>
 
 </div>
 
